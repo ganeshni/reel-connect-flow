@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Social Media Colors
+				instagram: {
+					start: 'hsl(var(--instagram-start))',
+					middle: 'hsl(var(--instagram-middle))',
+					end: 'hsl(var(--instagram-end))'
+				},
+				facebook: 'hsl(var(--facebook))',
+				youtube: 'hsl(var(--youtube))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
